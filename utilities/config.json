@@ -1,0 +1,9 @@
+{
+    "bing": "23a4ff333d094d0d84e746da86c7b7fd",
+    "notion_api_key": "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",
+    "azure": {
+        "api_version": "2024-08-01-preview",
+        "api_base": "https://qiri-openai-auseast.openai.azure.com/openai/deployments/gpt-35-turbo-uci/chat/completions?api-version=2024-08-01-preview",
+        "api_key": "1zZAWRqlpYwdOBnub8K1AtAxQLysarLEemup7j5EI6JJUxNXMe5LJQQJ99BAACL93NaXJ3w3AAABACOGpbnY"
+    }
+} 
